@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eventprocessor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SweetieBot-master/target/eventprocessor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

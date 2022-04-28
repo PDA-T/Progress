@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001/Java_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001/Java_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001/Java_3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001_Answer/Java_1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001_Answer/Java_2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../KSWJJ/28000001_Answer/Java_3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/main/Start.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/modle/Dinosaur.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/modle/Obstacle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/service/FreshThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/service/MusicPlayer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/service/ScoreRecorder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/service/Sound.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/view/BackgroundImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/view/GamePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/view/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Chrome games/src/com/mr/view/ScoreDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/main/Start.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/modle/Dinosaur.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/modle/Obstacle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/service/FreshThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/service/MusicPlayer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/service/ScoreRecorder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/service/Sound.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/view/BackgroundImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/view/GamePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/view/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Java 源文件/26/Dinosaur/src/com/mr/view/ScoreDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main_package/Main_algorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main_package/Minecraft.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main_package/Single_choice.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main_package/steam_class.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main_package/window.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Event_package/Jindutiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Event_package/Menu_bar_event.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Event_package/Steam_jindutiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Event_package/cd_fuwuqi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Event_package/mysql.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Main_package/Caidanlan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Main_package/Liebiaokuang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Main_package/Main_form.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Main_package/beijing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/Main_package/login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/VIP_Steam/Component.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/VIP_Steam/Steam_Caidanlan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Simulation engineering/src/VIP_Steam/Steam_jindutiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/JDBC/基础.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/File类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/压缩流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/数据过滤流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/文件字符流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/文件字节流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/缓冲字符流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/数据流/缓冲字节流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/Runnable接口.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/Thread类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/interrupt方法.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/join方法.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/线程优先级.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/线程/线程同步.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/网络程序/InetAddress类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/网络程序/UDP发送端.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/网络程序/UDP接收端.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/网络程序/客户端.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../study/src/网络程序/服务器.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Console_program/File类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Console_program/JDBC.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Console_program/取素数.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Console_program/彩票随机生成.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Console_program/控制鼠标.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/ASCII编码转换器.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/二进制转换.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/文件管理.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/病毒测试.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/精确发送邮件.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/获取安装软件.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../test program/src/Window_program/连点器.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/ChessListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/Config.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/FiveChessUI.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/Point.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/isWin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../五子棋/src/五子棋/quanzhi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/入口包/主类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/服务包/分数记录器.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/服务包/刷新帧线程.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/服务包/音乐播放器.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/服务包/音效类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/模型包/恐龙类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/模型包/障碍类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/视图包/主窗体.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/视图包/成绩对话框.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/视图包/游戏面板.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../伪谷歌小游戏/src/视图包/滚动背景.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第七章/类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第九章/BigInteger类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第九章/Math类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第九章/Random类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第九章/数字格式化.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第九章/随机数.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第五章/练习.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第五章/练习2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/Byte类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/Character包装类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/Double包装类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/int包装类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/布尔类.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/练习一.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/练习三.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第八章/练习二.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第六章/创建二维数组.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第六章/填充替换.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第六章/数组替换.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第一篇/src/第六章/练习1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/压缩文件.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/字符流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/数据流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/文件.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/文件夹.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/文件字节流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/文件路径.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/测试.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/缓冲字符输出流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/缓冲字节流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/IO流/缓冲输出字节流.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/枚举和泛型/泛型高级应用.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../第二篇/src/组件/提交事件.java" charset="GBK" />
+  </component>
+</project>
